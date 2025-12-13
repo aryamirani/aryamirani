@@ -1,16 +1,16 @@
-# 👋 Hi, I'm Arya Mirani
+# [cite_start]👋 Hi, I'm Arya Mirani [cite: 1]
 
-### 💻 Computer Science Student | Full-Stack Developer | AI/ML & Cybersecurity Enthusiast
+### 💻 Computer Science Student | Full-Stack Developer | [cite_start]AI/ML & Cybersecurity Enthusiast [cite: 6]
 
-[cite_start]I am a second-year Computer Science student at **IIIT Hyderabad** [cite: 6, 16] [cite_start]with a strong focus on building, deploying, and securing applications[cite: 7]. [cite_start]I thrive at the intersection of full-stack development, artificial intelligence, and cybersecurity[cite: 6].
+[cite_start]I am a second-year Computer Science student at IIIT Hyderabad [cite: 16] [cite_start]with a strong focus on building, deploying, and securing applications[cite: 7]. [cite_start]I thrive at the intersection of full-stack development, artificial intelligence, and cybersecurity[cite: 6].
 
 ---
 
 ## 🚀 What I'm Currently Focused On
 
 * [cite_start]**Full-Stack Development:** Building scalable and secure applications using frameworks like React, Node.js, and Next.js[cite: 47].
-* [cite_start]**Edge AI/ML:** Working on optimized, high-performance AI solutions for edge devices, including an **AI Smart Home Voice Assistant** using the Microsoft Phi-3-mini-4k-instruct LLM and Qualcomm SNPE SDK[cite: 39, 41].
-* [cite_start]**Cybersecurity & Malware Prevention:** Developing frameworks like **FOCUS**, a malware detection and prevention system with real-time monitoring and an intelligent port tracker[cite: 20, 24].
+* [cite_start]**Edge AI/ML:** Working on optimized, high-performance AI solutions for edge devices, including an **AI Smart Home Voice Assistant** (Under Development) [cite: 39] [cite_start]using the Microsoft Phi-3-mini-4k-instruct LLM and Qualcomm SNPE SDK[cite: 41, 50].
+* [cite_start]**Cybersecurity & Malware Prevention:** Developing frameworks like **FOCUS** [cite: 19][cite_start], a malware detection and prevention system with real-time monitoring and an intelligent port tracker[cite: 24].
 
 ---
 
@@ -24,7 +24,7 @@
 [cite_start]<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> [cite: 46]
 [cite_start]<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /> [cite: 46]
 [cite_start]<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> [cite: 46]
-[cite_start]<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> [cite: 46, 49]
+[cite_start]<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> [cite: 46]
 
 ### 🌐 Full-Stack Development
 
@@ -46,6 +46,7 @@
 
 [cite_start]<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /> [cite: 49]
 [cite_start]<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" /> [cite: 49]
+[cite_start]<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> [cite: 49]
 
 ### 🛡️ Cybersecurity & Edge AI Tools
 
@@ -60,8 +61,8 @@
 
 | Platform | Link |
 | :--- | :--- |
-| **Portfolio / Website** | [cite_start][https://aryamirani.github.io/me/](https://aryamirani.github.io/me/)  |
-| **LinkedIn** | [cite_start][linkedin.com/in/arya-r-mirani](https://www.linkedin.com/in/arya-r-mirani)  |
+| **Portfolio / Website** | [cite_start][https://aryamirani.github.io/me/](https://aryamirani.github.io/me/) [cite: 3] |
+| **LinkedIn** | [cite_start][linkedin.com/in/arya-r-mirani](https://www.linkedin.com/in/arya-r-mirani) [cite: 3] |
 | [cite_start]**Email** | aryamirani06@gmail.com [cite: 2] |
 
 > Feel free to explore my repositories or reach out for discussions on full-stack, AI, or cybersecurity projects!
