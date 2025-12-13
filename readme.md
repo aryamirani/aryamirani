@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Arya Mirani
 
-### 💻 Computer Science Student | Full-Stack Developer | AI/ML & Cybersecurity Enthusiast
+### 💻 Computer Science Student | Full-Stack Developer | AI/ML & Cybersecurity |
 
-I am a second-year Computer Science student at IIIT Hyderabad with a strong focus on building, deploying, and securing applications. I thrive at the intersection of full-stack development, artificial intelligence, and cybersecurity.
+I am a second-year Computer Science student at IIIT Hyderabad with a strong focus on building, deploying, and securing applications. My projects include full-stack development, artificial intelligence, and cybersecurity.
 
 ---
 
