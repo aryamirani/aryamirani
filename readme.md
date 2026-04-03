@@ -58,6 +58,5 @@ I use a diverse set of languages and tools, specializing in full-stack, AI/ML, a
 
 | Platform | Link |
 | :--- | :--- |
-| **Portfolio / Website** | [https://aryamirani.github.io/me/](https://aryamirani.github.io/me/) |
 | **LinkedIn** | [linkedin.com/in/arya-r-mirani](https://www.linkedin.com/in/arya-r-mirani) |
 | **Email** | aryamirani06@gmail.com |
