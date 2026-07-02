@@ -27,4 +27,4 @@ I am a software engineer and researcher focused on high-performance computing, a
 
 * **LinkedIn:** [linkedin.com/in/arya-r-mirani](https://www.linkedin.com/in/arya-r-mirani)
 * **Email:** [aryamirani06@gmail.com](mailto:aryamirani06@gmail.com)
-* **Codeforces:** [Your Profile Link]
+* **Codeforces:** [jaagte_raho](https://codeforces.com/profile/jaagte_raho)
